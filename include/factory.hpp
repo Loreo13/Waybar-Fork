@@ -1,3 +1,18 @@
+#define HAVE_WLR
+#define USE_EXPERIMENTAL
+#define HAVE_DBUSMENU
+#define HAVE_LIBDATE
+#define HAVE_UPOWER
+#define HAVE_LIBNL
+#define HAVE_CPU_LINUX
+#define HAVE_GAMEMODE
+#define HAVE_LIBUDEV
+#define HAVE_LIBEVDEV
+#define HAVE_GIO_UNIX
+#define HAVE_LIBSNDIO
+#define HAVE_LIBMPDCLIENT
+#define HAVE_LIBPULSE
+#define HAVE_GAMEMODE
 #pragma once
 
 #include <json/json.h>
